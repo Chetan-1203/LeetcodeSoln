@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse words in a string",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middle of Linked List", "Middle of Linked List\Middle of Linked List.csproj", "{8E15BC55-A918-445E-91CE-D5746937276A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Nth node from end of list", "Remove Nth node from end of list\Remove Nth node from end of list.csproj", "{80A01689-44E6-49D2-9B4D-8B1CE64E21B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Substring Without Repeating Characters", "Longest Substring Without Repeating Characters\Longest Substring Without Repeating Characters.csproj", "{21B00499-8B15-490D-8521-9C038C5A5747}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{8E15BC55-A918-445E-91CE-D5746937276A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E15BC55-A918-445E-91CE-D5746937276A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E15BC55-A918-445E-91CE-D5746937276A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A01689-44E6-49D2-9B4D-8B1CE64E21B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A01689-44E6-49D2-9B4D-8B1CE64E21B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A01689-44E6-49D2-9B4D-8B1CE64E21B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A01689-44E6-49D2-9B4D-8B1CE64E21B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B00499-8B15-490D-8521-9C038C5A5747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B00499-8B15-490D-8521-9C038C5A5747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B00499-8B15-490D-8521-9C038C5A5747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B00499-8B15-490D-8521-9C038C5A5747}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
