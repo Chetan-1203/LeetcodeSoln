@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Substring Without R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation", "Permutation\Permutation.csproj", "{5C56773C-A595-46A0-9962-60DBC0EBA562}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flood Fill", "Flood Fill\Flood Fill.csproj", "{39AF033F-D67C-4D97-85E3-8151EB400899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParenthesis", "ValidParenthesis\ValidParenthesis.csproj", "{D5B01CB5-DB9E-477A-B9BE-D71353A865E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{5C56773C-A595-46A0-9962-60DBC0EBA562}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C56773C-A595-46A0-9962-60DBC0EBA562}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C56773C-A595-46A0-9962-60DBC0EBA562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39AF033F-D67C-4D97-85E3-8151EB400899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39AF033F-D67C-4D97-85E3-8151EB400899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39AF033F-D67C-4D97-85E3-8151EB400899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39AF033F-D67C-4D97-85E3-8151EB400899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B01CB5-DB9E-477A-B9BE-D71353A865E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B01CB5-DB9E-477A-B9BE-D71353A865E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B01CB5-DB9E-477A-B9BE-D71353A865E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B01CB5-DB9E-477A-B9BE-D71353A865E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
