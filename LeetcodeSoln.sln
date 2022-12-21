@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flood Fill", "Flood Fill\Fl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParenthesis", "ValidParenthesis\ValidParenthesis.csproj", "{D5B01CB5-DB9E-477A-B9BE-D71353A865E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Two Sorted List", "Merge Two Sorted List\Merge Two Sorted List.csproj", "{4843271B-42C6-4254-B2BB-5FC5215A4579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roman to integer", "Roman to integer\Roman to integer.csproj", "{0B587AFF-083B-4287-84E4-9BCB91338877}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{D5B01CB5-DB9E-477A-B9BE-D71353A865E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5B01CB5-DB9E-477A-B9BE-D71353A865E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5B01CB5-DB9E-477A-B9BE-D71353A865E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4843271B-42C6-4254-B2BB-5FC5215A4579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4843271B-42C6-4254-B2BB-5FC5215A4579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4843271B-42C6-4254-B2BB-5FC5215A4579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4843271B-42C6-4254-B2BB-5FC5215A4579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B587AFF-083B-4287-84E4-9BCB91338877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B587AFF-083B-4287-84E4-9BCB91338877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B587AFF-083B-4287-84E4-9BCB91338877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B587AFF-083B-4287-84E4-9BCB91338877}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

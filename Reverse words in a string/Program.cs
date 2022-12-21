@@ -25,7 +25,7 @@ namespace Reverse_words_in_a_string
                 result =result+subString+ " ";
                 result.Trim();
             }
-            Console.WriteLine(2);
+            Console.WriteLine();
             Console.WriteLine(result);
         }
         static void Main(string[] args)
